@@ -1,0 +1,11 @@
+{
+  "name": "navbarjs",
+  "version": "1.0.0",
+  "description": "A navbar build with vanilla Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veronica Maxwell",
+  "license": "ISC"
+}
